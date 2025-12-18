@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>auto_ipc</name>
+  <version>0.0.1</version>
+  <description>Auto IPC</description>
+
+  <maintainer email="wang-sy@g.ecc.u-tokyo.ac.jp">Shuangyu Wang</maintainer>
+  <maintainer email="yasano@g.ecc.u-tokyo.ac.jp">Yuki Asano</maintainer>
+  <license>BSD 3-Clause</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>actionlib</depend>
+  <depend>actionlib_msgs</depend>
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
+
+</package>
