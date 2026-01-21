@@ -12,6 +12,7 @@
 
   <depend>actionlib</depend>
   <depend>actionlib_msgs</depend>
+  <depend>lite6_labauto</depend>
   <depend>rospy</depend>
   <depend>std_msgs</depend>
 
