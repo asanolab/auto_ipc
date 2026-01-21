@@ -1,0 +1,9 @@
+- git:
+    local-name: lite6_labauto
+    uri: https://github.com/asanolab/lite6_labauto.git
+- git:
+    local-name: auto_pipetty
+    uri: https://github.com/asanolab/auto_pipetty.git
+- git:
+    local-name: solution_prep
+    uri: https://github.com/asanolab/solution_prep.git
